@@ -2,6 +2,10 @@
 name: come-up-with-an-idea
 description: Use when the user wants to come up with a business idea, wants to start a business but doesn't know what to build, or has a vague or partial idea they want to develop — including asks about side businesses, making money independently, or finding what business suits them. Guides an interview about the user's own knowledge, communities and resources, then shapes candidate business ideas from what makes them unusual, ending with an idea document they can take to Draper.
 license: MIT
+metadata:
+  author: Draper
+  homepage: https://draper.chat/idea-skill
+  version: "0.7"
 ---
 
 # Come up with a business idea
