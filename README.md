@@ -18,8 +18,6 @@ npx skills add BardarLTD/come-up-with-an-idea
 
 Or copy [`skills/come-up-with-an-idea/SKILL.md`](skills/come-up-with-an-idea/SKILL.md) into `~/.claude/skills/come-up-with-an-idea/SKILL.md`.
 
-**ChatGPT:** open our official GPT, "Come up with a business idea", for a one-tap version.
-
 ## The paste version
 
 ```
